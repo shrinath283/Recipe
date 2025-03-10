@@ -9,8 +9,8 @@ const User = require('./models/userModel');
 
 async function insert() {
     await User.create({
-        name:'Kunal Telangi',
-        user:'kunaltelangi',
+        name:'Kunal',
+        user:'kunaltelangi82',
         phoneNumber:8999128968,
         pwd:'qwerty12345',
         email:'kunaltelangi786@gamil.com'
